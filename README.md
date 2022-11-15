@@ -12,6 +12,15 @@
 
 - 📫 How to reach me **adam.leymeister@gmail.com**
 
+Total Time Spent Coding Since August 2022
+<a href="https://wakatime.com/@6858ba03-89a1-40e6-a4d7-30968a551939"><img src="https://wakatime.com/badge/user/6858ba03-89a1-40e6-a4d7-30968a551939.svg" alt="Total time coded since Jul 17 2022" /></a>
+
+<div>
+<img height="350" src="https://wakatime.com/share/@adamleymeister/4659ee19-5316-43f9-8f31-a696049afd80.svg">
+<img height="350" src="https://wakatime.com/share/@adamleymeister/aeffc3ae-0f7f-402a-9b6b-47d58babdb40.svg">
+<img height="350" src="https://wakatime.com/share/@adamleymeister/1b2762e6-983c-4c72-8f44-f750854837da.svg">
+ </div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adamleymeister" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adamleymeister" height="30" width="40" /></a>
