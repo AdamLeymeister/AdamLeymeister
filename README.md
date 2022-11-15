@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamleymeister&label=Profile%20views&color=0e75b6&style=flat" alt="adamleymeister" /> </p> -->
 
-- 🔭 I’m currently working on **Immersed - Cyber Security**
+- 🔭 I’m currently working on **Immersed - A Cyber Security Training Tool**
 
 - 💬 Ask me about **React, .NET, SQL, Python**
 
