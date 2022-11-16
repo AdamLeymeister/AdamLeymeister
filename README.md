@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Immersed - A Cyber Security Training Tool**
 
-- 💬 Ask me about **React, .NET, SQL, Python**
+- 💬 Ask me about **React, .NET, C#, SQL, Python, JavaScript**
 
 - 📫 How to reach me **adam.leymeister@gmail.com**
 
