@@ -20,8 +20,6 @@ Total Time Spent Coding Since August 2022
 
 </div>
 
-<hr> 
-
 <div align="center" display="flex">
 <img height="300" src="https://wakatime.com/share/@adamleymeister/4659ee19-5316-43f9-8f31-a696049afd80.svg">
 <img height="300" src="https://wakatime.com/share/@adamleymeister/aeffc3ae-0f7f-402a-9b6b-47d58babdb40.svg">
