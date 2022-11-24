@@ -44,6 +44,6 @@ Total Time Spent Coding Since August 2022
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamleymeister&show_icons=true&locale=en&layout=compact" alt="adamleymeister" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamleymeister&show_icons=true&locale=en" alt="adamleymeister" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamleymeister&show_icons=true&locale=en" alt="adamleymeister" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamleymeister&" alt="adamleymeister" /></p>
